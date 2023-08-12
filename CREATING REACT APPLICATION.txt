@@ -1,0 +1,3 @@
+								CREATING REACT APPLICATION
+1) npx create-react-app folder_name
+2) enter the folder using cd folder_name
